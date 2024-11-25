@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Grid World Env 구현"
 ---
 
